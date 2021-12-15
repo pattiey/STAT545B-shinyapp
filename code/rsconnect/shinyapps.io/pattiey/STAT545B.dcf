@@ -1,0 +1,13 @@
+name: STAT545B
+title: STAT545B
+username:
+account: pattiey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5211105
+bundleId: 5356813
+url: https://pattiey.shinyapps.io/STAT545B/
+when: 1639163405.78239
+lastSyncTime: 1639163405.78241
+asMultiple: FALSE
+asStatic: FALSE
